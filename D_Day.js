@@ -18,4 +18,4 @@ function D_Day(Y, M, D) {
 
 //Argument: Y = year(int), M = month(int), D = Date(int)
 //인자: Y = 해(정수), M = 달(정수), D = 날(정수)
-//ex. if 2024 1, 1 then, D_Day(2024, 1, 1)
+//ex. if 1/1/2024 then, D_Day(2024, 1, 1)
